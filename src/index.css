@@ -30,3 +30,34 @@ body {
   padding: 0;
   border: 0;
 }
+a {
+  color: white;
+}
+header {
+  width: 65%;
+  
+}
+.CharacterEditor_controlColumn__21_Sc {
+  width: 50%;
+}
+.CharacterEditor_characterWrapper__277mj {
+ position: fixed;
+ left: 65%; 
+ top: 128px;
+
+}
+.Character_character__6f_je {
+  min-height: 500px;
+}
+.ControlPane_controlPane__2STO3 {
+  overflow: auto;
+  white-space: nowrap;
+}
+#perspective-decoration {
+  position: fixed;
+  top: 60%;
+  width: 100%;
+  height: 100%;
+  background-color:hsl(195deg, 20%, 86%);
+  z-index: -1;
+}
